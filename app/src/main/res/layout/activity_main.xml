@@ -4,8 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorMainBackground"
-    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <ImageView
@@ -43,13 +41,12 @@
             style="@style/ButtonYellowRounded18RubikMedium14Black"
             android:layout_width="match_parent"
             android:layout_height="@dimen/dimen36"
-            android:elevation="@dimen/dimen6"
             android:layout_centerInParent="true"
             android:layout_marginStart="@dimen/dimen26"
             android:layout_marginEnd="@dimen/dimen26"
+            android:elevation="@dimen/dimen6"
             android:text="@string/walkthrough_button_start"
             android:textAllCaps="false" />
     </RelativeLayout>
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
