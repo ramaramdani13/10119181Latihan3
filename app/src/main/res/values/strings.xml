@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">Latihan1AKB</string>
-
+    <string name="app_name">10119203Latihan3</string>
     <string name="walkthrough_text">Monitory membantu Anda mengontrol HP Anak</string>
     <string name="walkthrough_button_start">Mulai</string>
 
